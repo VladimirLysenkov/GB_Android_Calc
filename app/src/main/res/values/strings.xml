@@ -19,5 +19,5 @@
     <string name="result">=</string>
     <string name="cleaning">C</string>
     <string name="percent">%</string>
-    <string name="erase"><![CDATA[<]]></string>
+    <string name="erase">erase</string>
 </resources>

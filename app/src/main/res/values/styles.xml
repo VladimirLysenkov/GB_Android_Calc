@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CalcButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_marginStart">5dp</item>
+        <item name="android:layout_marginEnd">5dp</item>
+        <item name="android:backgroundTint">#808691</item>
+    </style>
+
+    <style name="CalcButton.CalcActionButton">
+        <item name="android:backgroundTint">#696969</item>
+    </style>
+
+    <style name="CalcButton.CalcClearingButton">
+        <item name="android:backgroundTint">#CD853F</item>
+    </style>
+
+    <style name="CalcTextView">
+        <item name="android:layout_gravity">end</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+</resources>
