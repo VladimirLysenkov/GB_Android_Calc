@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="textSizeButton">40sp</dimen>
-    <dimen name="textSizeTextView">35sp</dimen>
+    <dimen name="textSizeButton">25sp</dimen>
+    <dimen name="textSizeEditText">45sp</dimen>
+    <dimen name="textSizeOperations">55sp</dimen>
+    <dimen name="textSizeResult">55sp</dimen>
 </resources>
